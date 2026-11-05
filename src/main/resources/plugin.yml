@@ -1,0 +1,10 @@
+name: DashMace
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: A mace that allows players to dash in the air when right-clicking while holding it.
+commands:
+  dashmace:
+    description: Gives the player a Dash Mace.
+    usage: /dashmace
+    permission: dashmace.get

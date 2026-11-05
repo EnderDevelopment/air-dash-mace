@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges">
+  <!-- Dash Mace pixel-art texture -->
+  <!-- Handle -->
+  <rect x="7" y="1" width="2" height="3" fill="#8B4513"/>
+  <rect x="7" y="4" width="2" height="4" fill="#A0522D"/>
+  <!-- Head -->
+  <rect x="5" y="8" width="6" height="3" fill="#708090"/>
+  <rect x="6" y="7" width="4" height="1" fill="#A9A9A9"/>
+  <rect x="4" y="9" width="8" height="1" fill="#FFD700"/>
+  <rect x="5" y="10" width="6" height="1" fill="#2F4F4F"/>
+  <!-- Spikes -->
+  <rect x="3" y="8" width="1" height="2" fill="#C0C0C0"/>
+  <rect x="12" y="8" width="1" height="2" fill="#C0C0C0"/>
+  <rect x="6" y="6" width="1" height="1" fill="#C0C0C0"/>
+  <rect x="9" y="6" width="1" height="1" fill="#C0C0C0"/>
+  <!-- Gem -->
+  <rect x="7" y="8" width="2" height="2" fill="#00BFFF"/>
+</svg>
